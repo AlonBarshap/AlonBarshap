@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AlonBarshap
+- 👀 I’m interested in Protein Desgin, Protein Folding, Protein Quality Control, Plant Sciences & ML-art. 
+- 📫 Reach me through Baralon@gmail.com
